@@ -19,7 +19,7 @@ It includes domain services, DHCP, DNS, AD, and multiple client systems for cros
 - **Virtualization:** Oracle VirtualBox on main system  
 - **Physical Hosts:**  
   - Main PC (16 GB RAM, 512 GB SSD (All VM's, Server 2022 and one Client at a time)  
-  - Kali (Ideapad 4 GB RAM – Linux test machine (Working on the practical use of this for penttesting)  
+  - Kali (Ideapad 4 GB RAM – Linux test machine (Working on the practical use of this for pentesting)  
   - Xubuntu (Chromebook 32 GB SSD, 4 GB RAM - Admin Tools (Still working on this))  
 
 ---
